@@ -1,0 +1,45 @@
+.row1{
+    background-color: aqua;
+    
+}
+.colmain{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:#e9ecef;
+    border-radius: 5px;
+}
+.main{
+    height: 100%;
+    background-image: linear-gradient(#153d77 30%,#f4f7fc 30%);
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.heading{
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+}
+.titleheader{
+    display: flex;
+    font-size: 50px;
+    margin-bottom: 25px;
+}
+.titlehead{
+    display: inline-block;
+}
+.iconhead{
+    font-size: 20px ;
+}
+.lable-text{
+    width: 60px;
+}
+.input-date{
+    border-radius: 5px;
+    height: 35px;
+}
+.formlayout{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
