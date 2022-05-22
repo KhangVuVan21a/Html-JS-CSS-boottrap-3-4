@@ -1,5 +1,5 @@
 .row1{
-    background-color: aqua;
+
     
 }
 .colmain{
@@ -41,5 +41,93 @@
 .formlayout{
     margin-top: 0;
     margin-bottom: 0;
+}
+.input-start{
+    width: 70px;
+}
+.input-startt{
+    width: 20%;
+}
+.input-end{
+    width: 150px;
+}
+.input-endd{
+    border-radius: 5px;
+    height: 35px;
+    width: 60%;
+}
+.border-input{
+    border-style: inset;
+    border-width: 3px;
+    border-radius: 5px;
+}
+.button-head{
+    background-color: white;
+    border: #e9ecef;
+}
+.font-w{
+    font-size:25px
+}
+.input-date-width{
+    width: 30%;
+    font-size: 16px;
+    border-radius: 5px;
+    height: 37px;
+}
+.input-center-left{
+    width: 50px;
+}
+.input-center-right{
+    width: 80px;
+}
+.input-center-left2{
+    width: 60px;
+}
+.input-center-right2{
+    width: 60px;
+}
+button{
+    width: 40px;
+}
+.input-center{
+    width: 60%;
+    height: 35px;
+    border-radius: 5px;
+    border: 2px solid  gray;
+}
+.bottom{
+    margin-top : 20px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+    height: auto;
+
+}
+.bottom-head{
+}
+.dropdow-toggle-bottom{
+    height: 35px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-left: white;
+}
+.input-bottom{
+    width: 30%;
+    height: 35px;
+    border-right: none;
+    border-start-start-radius: 5px;
+    border-end-start-radius: 5px;
+    border: 2px solid  gray;
+}
+.bottom-bottom{
+    margin-top: 10px;
+}
+.table-color{
+    background-color: #c1e2fc;
+}
+.scoll-table{
+    overflow-y: scroll;
+    
 }
 
